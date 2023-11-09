@@ -20,4 +20,6 @@
 
 [Link um die Htmldateien als gerendert zu sehen](https://htmlpreview.github.io)
 
+[Alles was man zum Thema HTML wissen kann](https://www.w3schools.com/html/default.asp)
+
 ~Adham
