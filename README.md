@@ -1,4 +1,5 @@
 # HTML
+**Wichtig:**sollte etwas nicht funktionieren oder Fragen vorhanden sein einfach mich Fragen
 ### **Alle Aufgaben** 
 
  **Link zu vscode (guter editor)**
@@ -12,4 +13,9 @@
 ## Useful Links
 
 [Color Names](https://www.w3schools.com/tags/ref_colornames.asp)
+
 [Hex-Values](https://htmlcolorcodes.com)
+
+[Aspect-Ratio](https://aspect-ratio.dev)
+
+~Adham
