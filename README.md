@@ -1,5 +1,5 @@
 # HTML
-**Wichtig:**sollte etwas nicht funktionieren oder Fragen vorhanden sein einfach mich Fragen
+**Wichtig:** sollte etwas nicht funktionieren oder Fragen vorhanden sein einfach mich Fragen(gerne auch über den issues Tab)!
 ### **Alle Aufgaben** 
 
  **Link zu vscode (guter editor)**
