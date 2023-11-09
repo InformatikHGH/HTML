@@ -18,6 +18,6 @@
 
 [Aspect-Ratio](https://aspect-ratio.dev)
 
-[Link um die Htmldateien als gerendert zu dehen](https://htmlpreview.github.io)
+[Link um die Htmldateien als gerendert zu sehen](https://htmlpreview.github.io)
 
 ~Adham
